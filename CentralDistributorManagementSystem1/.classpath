@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/._javadbms.jar"/>
+	<classpathentry kind="lib" path="dist/javadbms.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="dist/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="dist/lib/ojdbc7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
